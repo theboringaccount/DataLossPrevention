@@ -1,7 +1,7 @@
 # Data Loss Prevention (DLP)
-##Installation##
+##Installation
 For installation process, please follow typical installation steps of python
 applications.
 
-##Disclaimer##
+##Disclaimer
 This code is under the intellectual property of M.A.N. Uhl INC.
