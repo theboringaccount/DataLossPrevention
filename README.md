@@ -1,5 +1,5 @@
 # Data Loss Prevention (DLP)
-##Current Version: 1.01##
+##Installation##
 For installation process, please follow typical installation steps of python
 applications.
 
