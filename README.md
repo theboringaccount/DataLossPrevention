@@ -1,24 +1,7 @@
-# README
+# Data Loss Prevention (DLP)
+##Current Version: 1.01##
+For installation process, please follow typical installation steps of python
+applications.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##Disclaimer##
+This code is under the intellectual property of M.A.N. Uhl INC.
