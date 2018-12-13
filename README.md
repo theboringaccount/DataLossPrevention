@@ -13,3 +13,9 @@ compiling Apache Web Server from scratch.
 
 ## Disclaimer
 This code is under the intellectual property of M.A.N. Uhl INC.
+
+## Affiliates
+M.A.N. Uhl is proud customer of:
+![BurgerKing](https://webiconspng.com/wp-content/uploads/2017/09/Burger-King-PNG-Image-88972-300x291.png)
+![Wagner
+Pizza](https://img.rewe-static.de/2670639/25165660_digital-image.png?resize=300px:300px&background-color=FFFFFF)
